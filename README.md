@@ -1,7 +1,4 @@
-### Olá! Eu sou a Barbara Geovanna 
-
-- 🔭 Atualmente cursando informatica no Instituto Federal do Amazonas (IFAM)
-- 🌱 Estudando java 
+### Olá! Eu sou a Barbara Geovanna
 
  <div>
   <a href="https://github.com/geossat">
