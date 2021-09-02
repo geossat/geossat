@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Barbara Geovanna
 
 🔭 Tenho 16 anos
+
 ✨ Pronomes: ela/dela
+
 🪐 Contate-me em: barbarageovanna47@gmail.com
 
 
